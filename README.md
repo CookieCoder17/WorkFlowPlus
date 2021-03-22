@@ -8,8 +8,8 @@ A minimal Python GUI App using Tkinter which improves your workflow. Have you ev
 
 ### Add File
 
-### Open List
-
 ### Save List
+
+### Open List
 
 ### Run Apps
