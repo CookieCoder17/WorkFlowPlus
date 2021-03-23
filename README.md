@@ -8,7 +8,7 @@ A minimal Python GUI App using Tkinter which improves your workflow. Have you ev
 
 ### Add File
 Using the Add File button, you can easily add files by selecting the file from the file dialog.
-<img src="/ForREADME/add1.png">
+<img src="ForREADME/Add1.png" width=300>
 
 ### Save List
 Using the Save List button, you can save your current list into a txt, in order to open the list and run your stack of files togther in 3 clicks.
